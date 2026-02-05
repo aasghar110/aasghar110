@@ -8,56 +8,35 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-**Tech-Adaptive Software Engineer** with **3 years of experience** building enterprise applications. A continuous learner specializing in **.NET Core** and **Java Spring Boot**, with practical experience in **Node.js**. Skilled in designing scalable architectures like **Microservices** and **Modular Monoliths**, and delivering full-stack solutions using **React** and **Angular**. Experienced in cloud development on **Azure** and **AWS**, utilizing **Docker** and **CI/CD** pipelines.
+## 👨‍💻 About Me
+**Tech-Adaptive Software Engineer** with **3 years of experience** building enterprise applications. I specialize in **.NET Core** and **Java Spring Boot**, designing scalable architectures like **Microservices** and **Modular Monoliths**. I deliver full-stack solutions using **React** and **Angular**, with extensive cloud experience on **Azure** and **AWS**.
 
 ---
 
 ## 🛠 Technical Skills
 
-| Domain | Skills |
+| Domain | Technolgies |
 | :--- | :--- |
-| **Languages & Core** | C#, Java (Spring), TypeScript, JavaScript (ES6+), SQL, Dart, OOP, SOLID |
-| **Backend** | .NET Core, ASP.NET Web API, Spring Boot, Microservices, Node.js (Express) |
-| **Frontend & Mobile** | React.js, Angular, Blazor, Flutter, Redux Toolkit, Tailwind CSS |
-| **Cloud & DevOps** | Azure (App Service, SQL), AWS (EC2, S3), Docker, CI/CD, Git |
-| **Data** | SQL Server, PostgreSQL, MySQL, Redis, RabbitMQ, EF Core |
+| **Languages** | C#, Java, TypeScript, JavaScript, SQL |
+| **Backend** | .NET Core, ASP.NET Web API, Spring Boot, Node.js |
+| **Frontend** | React.js, Angular, Blazor, Tailwind CSS |
+| **Cloud & DevOps** | Azure, AWS, Docker, CI/CD (GitHub Actions) |
+| **Database** | SQL Server, PostgreSQL, MySQL, Redis, RabbitMQ |
 
 ---
 
-## 💼 Professional Experience
-
-### **Digital Dividend Global** | *Software Engineer*
-*Oct 2024 – Present*
-
-*   **Enterprise EdTech Platform (Saudi Arabia)**: Took ownership of the existing Spring Boot Microservices system. Led new features, maintenance, and critical bug fixes. Leveraged RabbitMQ and Redis in a Dockerized environment.
-*   **SME & Investor Investment Portal**: Architected and built a scalable investment portal using the PERN Stack (PostgreSQL, Express, React, Node.js) and Agentic AI tools.
-*   **UK Security Management System**: Collaborated on a Modular Monolith .NET Core application for guard rostering involved Azure Infrastructure management.
-*   **Luxury Chauffeur Booking Service**: Enhanced a .NET ride-booking platform, improved financial flows, and integrated Stripe.
-*   **Expense Automation Microservice**: Developed a specific Spring Boot microservice for trip reimbursement and accounting integration.
-*   **Government & Cultural Solutions**: Delivered platforms for high-profile government entities using Umbraco CMS (.NET) and custom APIs.
-*   **High-Traffic Quiz Platform**: Optimized a legacy Laravel & MySQL product, reducing result page load time by 60% via indexing strategies.
-
-### **GentecSoft** | *Associate Software Engineer*
-*Jun 2023 – Sep 2024*
-
-*   **ERP Modernization**: Migrated legacy desktop modules to a cloud-based web app using .NET Core and Blazor WebAssembly for 300+ clients.
-*   **Industrial Transport Tracking**: Built a real-time logistics tracking solution for the sugar industry with digital workflows.
-
----
-
-## 🏆 Key Projects
+## 🏆 Personal Projects
 
 ### **SaaS Inventory & POS Platform**
-*Featured Personal Project*
-*   **Stack**: .NET Core, React 19, AWS (Elastic Beanstalk + S3).
-*   **Features**: Multi-Tenant SaaS, RBAC, Multi-Branch Resource Management, i18n.
-*   **Live Demo**: [pos-saas-demo.com](http://pos-saas-frontend-staging.s3-website.ap-south-1.amazonaws.com/) *(Admin/Pass@123)*
+*Multi-Tenant Business Solution*
+*   **Stack**: .NET Core, React 19, AWS (Elastic Beanstalk + S3)
+*   **Key Features**: RBAC, Resource Management, Light/Dark Mode, i18n
+*   **Live Demo**: [pos-saas-demo.com](http://pos-saas-frontend-staging.s3-website.ap-south-1.amazonaws.com/) *(admin@demo.com/Pass@123)*
 
-### **KidzSearch: Missing Child Platform**
-*Final Year Project*
-*   **Stack**: Flutter, .NET Core, Dlib.
-*   **Features**: Real-time Face Recognition for missing child recovery, automated alerts, and location-based dashboard.
+### **KidzSearch**
+*Missing Child Recovery Platform (FRP)*
+*   **Stack**: Flutter, .NET Core, Dlib (Face Recognition)
+*   **Key Features**: Real-time matching, automated alerts, location tracking
 
 ---
 
