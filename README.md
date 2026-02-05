@@ -34,7 +34,7 @@
 *   **Live Demo**: [pos-saas-demo.com](http://pos-saas-frontend-staging.s3-website.ap-south-1.amazonaws.com/) *(admin@demo.com/Pass@123)*
 
 ### **KidzSearch**
-*Missing Child Recovery Platform (FRP)*
+*Missing Child Recovery Platform (Final Year Project)*
 *   **Stack**: Flutter, .NET Core, Dlib (Face Recognition)
 *   **Key Features**: Real-time matching, automated alerts, location tracking
 
